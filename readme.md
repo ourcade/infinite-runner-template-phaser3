@@ -30,4 +30,4 @@ All the image and audio files in this repository is stored with `git-lfs`.
 
 ## License
 
-[MIT License](https://github.com/ourcade/phaser3-typescript-parcel-template/blob/master/LICENSE)
+[MIT License](https://github.com/ourcade/infinite-runner-template-phaser3/blob/master/LICENSE)
