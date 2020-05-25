@@ -142,7 +142,7 @@ export default class Game extends Phaser.Scene
 			const laserBody = this.laserObstacle.body as Phaser.Physics.Arcade.StaticBody
 			laserBody.x -= maxX
 
-			// this.spawnCoins()
+			this.spawnCoins()
 
 			this.coins.children.each(child => {
 				const coin = child as Phaser.Physics.Arcade.Sprite
@@ -233,7 +233,7 @@ export default class Game extends Phaser.Scene
 
 			this.bookcase2.visible = !overlap
 
-			this.spawnCoins()
+			// this.spawnCoins()
 		}
 	}
 
