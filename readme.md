@@ -22,6 +22,8 @@ If you don't have `git-lfs` installed then get it here: https://git-lfs.github.c
 
 All the image and audio files in this repository is stored with `git-lfs`.
 
+Alternatively, you can [download a zip from the latest release](https://github.com/ourcade/infinite-runner-template-phaser3/releases/tag/latest).
+
 ## Credits
 
 [House Background art](https://www.gameartguppy.com/shop/house-1-repeatable-background/) from Game Art Guppy
