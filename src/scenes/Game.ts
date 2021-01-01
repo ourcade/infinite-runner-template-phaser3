@@ -73,7 +73,7 @@ export default class Game extends Phaser.Scene
 		body.setVelocityX(200)
 
 		this.scoreLabel = this.add.text(10, 10, `Score: ${this.score}`, {
-			fontSize: 24,
+			fontSize: '24px',
 			color: '#080808',
 			backgroundColor: '#F8E71C',
 			shadow: { fill: true, blur: 0, offsetY: 0 },
